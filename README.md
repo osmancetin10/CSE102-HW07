@@ -3,6 +3,7 @@ Homework 7 of CSE102 class at Gebze Technical University
 
 # Part1
 
+This is the program of a game known as draughts. Program provides multiplayer gaming.
 
 # Part2
 
